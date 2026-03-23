@@ -54,6 +54,7 @@ Advanced Fraud Detection System based on Unsupervised Learning &amp; Graph Theor
 
 ```bash
 pip install -r requirements.txt
+```
 
 主要库 (Key Libraries):  
 pandas, numpy: 数据处理  
@@ -62,27 +63,21 @@ networkx: 图论分析核心
 matplotlib, seaborn: 可视化  
 
 🚀 How to Run (运行指南)
+
 Clone Repo:
-bash
-
-编辑
-
-
+```bash
 
 git clone https://github.com/tianzhensheng/fraud-detection-graph-unsupervised.git
 cd fraud-detection-graph-unsupervised
 Install Dependencies:
-bash
-
-编辑
-
+```bash
 
 
 pip install -r requirements.txt
 Launch Jupyter:
 bash
 
-编辑
+```
 
 
 
