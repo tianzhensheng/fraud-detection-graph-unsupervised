@@ -70,13 +70,9 @@ Clone Repo:
 git clone https://github.com/tianzhensheng/fraud-detection-graph-unsupervised.git
 cd fraud-detection-graph-unsupervised
 Install Dependencies:
-```bash
-
 
 pip install -r requirements.txt
 Launch Jupyter:
-bash
-
 ```
 
 
