@@ -77,21 +77,21 @@ Launch Jupyter:
 
 
 
-jupyter lab
-打开文件：Advanced-Fraud-Detection-with-Unsupervised-and-Graph-Learning-0309.ipynb
-💡 Industrial Application (工业落地潜力)
-虽然本项目以 Fraud Detection 为例，但其架构可无缝迁移至以下领域：
-🏭 Predictive Maintenance (预测性维护):
-利用传感器时序数据，检测设备早期故障 (Early Failure Detection)。图算法可识别多传感器耦合异常。
-🛡️ Cybersecurity (网络安全):
-识别恶意网络流量模式 (Malicious Traffic Patterns)。
-🏥 Healthcare Monitoring (医疗监控):
-在 ICU 场景中标记异常生命体征。
-Core Idea: 当异常不是孤立发生，而是以“群体”或“关联”形式出现时，Graph Topology (图拓扑) 分析具有降维打击的优势。
-📄 License
-MIT License — 欢迎 Fork, Modify 和 Share。
-👤 Author
-Tian Zhen Sheng
-GitHub Profile
-⚠️ Disclaimer: 本项目使用合成/模拟数据演示。Production Deployment 前请务必在垂直领域数据集验证，并遵守 GDPR/HIPAA 等隐私合规要求。
+jupyter lab  
+打开文件：Advanced-Fraud-Detection-with-Unsupervised-and-Graph-Learning-0309.ipynb  
+💡 Industrial Application (工业落地潜力)  
+虽然本项目以 Fraud Detection 为例，但其架构可无缝迁移至以下领域：  
+🏭 Predictive Maintenance (预测性维护):  
+利用传感器时序数据，检测设备早期故障 (Early Failure Detection)。图算法可识别多传感器耦合异常。  
+🛡️ Cybersecurity (网络安全):  
+识别恶意网络流量模式 (Malicious Traffic Patterns)。  
+🏥 Healthcare Monitoring (医疗监控):  
+在 ICU 场景中标记异常生命体征。  
+Core Idea: 当异常不是孤立发生，而是以“群体”或“关联”形式出现时，Graph Topology (图拓扑) 分析具有降维打击的优势。  
+📄 License  
+MIT License — 欢迎 Fork, Modify 和 Share。  
+👤 Author  
+Tian Zhen Sheng  
+GitHub Profile  
+⚠️ Disclaimer: 本项目使用合成/模拟数据演示。Production Deployment 前请务必在垂直领域数据集验证，并遵守 GDPR/HIPAA 等隐私合规要求。  
 
